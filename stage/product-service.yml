@@ -1,4 +1,0 @@
-db:
-  h2:
-    user: sa
-    password: sa2
